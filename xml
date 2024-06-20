@@ -1,503 +1,502 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2024-06-20 12:06">
-<shop>
-<name>Центр персонализированной психотерапии и психиатрии</name>
-<company>ЭмоциУМ</company>
-<url>https://emotsium.ru/</url>
-<email>labdushi@yandex.ru</email>
-<picture/>
-<description>Центр персонализированной психотерапии и психиатрии создан, чтобы помочь каждому пациенту найти путь к здоровью и благополучию. Мы стремимся предоставить безусловную поддержку и конфиденциальность, создавая доверительную атмосферу, в которой каждый человек может открыться и почувствовать себя в безопасности</description>
-<currencies>
-<currency id="RUR" rate="1"/>
-</currencies>
-<categories>
-<category id="1">Врач</category>
-</categories>
-<sets>
-<set id="terapevt">
-<name>Терапевт</name>
-<url>https://doctors.sample.s3.yandex.net/terapevt</url>
-</set>
-<set id="khirurg">
-<name>Хирург</name>
-<url>https://doctors.sample.s3.yandex.net/khirurg</url>
-</set>
-</sets>
-<offers>
-<offer>
-<name>Сычова Татьяна Викторовна</name>
-<url>https://emotsium.ru/sychovatv</url>
-<price/>
-<oldprice>5000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>20 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/sychovatv</url_profile>
-<сarier_start>2004-01-01</сarier_start>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<users_rating/>
-<reviews_number/>
-<prod_rating/>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-<childrens_doctor>1</childrens_doctor>
-</param>
-</offer>
-<offer>
-<name>Смольникова Наталья Александровна</name>
-<url>https://emotsium.ru/smolnikovana</url>
-<price/>
-<oldprice>5000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>16 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/smolnikovana</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Демидова Анастасия Сергеевна</name>
-<url>https://emotsium.ru/demidovaas</url>
-<price/>
-<oldprice>3500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>8 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/demidovaas</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Костин Павел Игоревич</name>
-<url>https://emotsium.ru/kostinpi</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>10 лет</experience>
-<scientific_title>врач</scientific_title>
-<scientific_category>врач</scientific_category>
-<url_profile>https://emotsium.ru/kostinpi</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>врач</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Гиберт Анна Ивановна</name>
-<url>https://emotsium.ru/gibertai</url>
-<price/>
-<oldprice>2500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>11 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/gibertai</url_profile>
-<city_name>Тюмень</city_name>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-</param>
-</offer>
-<offer>
-<name>Ракитина Рузана Самвеловна</name>
-<url>https://emotsium.ru/rakitinars</url>
-<price/>
-<oldprice>3500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>9 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/rakitinars</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Бунин Александр Васильевич</name>
-<url>https://emotsium.ru/buninav</url>
-<price/>
-<oldprice>2500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>7 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/buninav</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Белов Лев Владимирович</name>
-<url>https://emotsium.ru/belovlv</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>8 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/belovlv</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-<record_phone>+7 919 944 64 17</record_phone>
-</param>
-</offer>
-<offer>
-<name>Ильина Ксения Николаевна</name>
-<url>https://emotsium.ru/ilyinakn</url>
-<price/>
-<oldprice>2500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>7 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/ilyinakn</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Леончук Анастасия Александровна</name>
-<url>https://emotsium.ru/leonchukaa</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>8 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/leonchukaa</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Левченко Евгения Олеговна</name>
-<url>https://emotsium.ru/levchenkoeo</url>
-<price/>
-<oldprice>2500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>10 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/levchenkoeo</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Балахонова Оксана Владимировна</name>
-<url>https://emotsium.ru/balahonova</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>23 года</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/balahonova</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Киселев Вадим Рудольфович</name>
-<url>https://emotsium.ru/kiselev</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>5 лет</experience>
-<scientific_title>Лечебное дело</scientific_title>
-<scientific_category>Лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/kiselev</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<science_degree>Лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Пулеко Карина Самвеловна</name>
-<url>https://emotsium.ru/puleko</url>
-<price/>
-<oldprice>3000</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>11 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/puleko</url_profile>
-<city_name>Тюмень</city_name>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Майер Полина Олеговна</name>
-<url>https://emotsium.ru/maierpo</url>
-<price/>
-<oldprice>3500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>8 лет</experience>
-<scientific_title>психиатрия</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/maierpo</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<science_degree>педиатрия</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Уманская Полина Станиславовна</name>
-<url>https://emotsium.ru/umanskaya</url>
-<price/>
-<oldprice>3500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>13 лет</experience>
-<scientific_title>лечебное дело</scientific_title>
-<scientific_category>лечебное дело</scientific_category>
-<url_profile>https://emotsium.ru/umanskaya</url_profile>
-<city_name>Тюмень</city_name>
-<childrens_doctor>1</childrens_doctor>
-<adult_doctor>1</adult_doctor>
-<science_degree>лечебное дело</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-<offer>
-<name>Головина Жанна Григорьевна</name>
-<url>https://emotsium.ru/golovina</url>
-<price/>
-<oldprice>2500</oldprice>
-<currencyId/>
-<sales_notes/>
-<set-ids/>
-<picture/>
-<description/>
-<categoryId/>
-<param>
-<experience>19 лет</experience>
-<scientific_title>психология</scientific_title>
-<scientific_category>психология</scientific_category>
-<url_profile>https://emotsium.ru/golovina</url_profile>
-<city_name>Тюмень</city_name>
-<adult_doctor>1</adult_doctor>
-<childrens_doctor>1</childrens_doctor>
-<science_degree>психология</science_degree>
-<clinic_city_name>Тюмень</clinic_city_name>
-<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
-<clinic_name>ЭмоциУМ</clinic_name>
-<record_phone>+7 919 944 64 17</record_phone>
-<can_record>1</can_record>
-<online_schedule>1</online_schedule>
-</param>
-</offer>
-</offers>
-</shop>
-</yml_catalog>
+    <shop>
+        <name>Центр персонализированной психотерапии и психиатрии</name>
+        <company>ЭмоциУМ</company>
+        <url>https://emotsium.ru/</url>
+        <email>labdushi@yandex.ru</email>
+        <picture/>
+        <description>Центр персонализированной психотерапии и психиатрии создан, чтобы помочь каждому пациенту найти путь к здоровью и благополучию. Мы стремимся предоставить безусловную поддержку и конфиденциальность, создавая доверительную атмосферу, в которой каждый человек может открыться и почувствовать себя в безопасности</description>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+        <sets>
+            <set id="terapevt">
+                <name>Терапевт</name>
+                <url>https://doctors.sample.s3.yandex.net/terapevt</url>
+            </set>
+            <set id="khirurg">
+                <name>Хирург</name>
+                <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+            </set>
+        </sets>
+        <offers>
+            <offer>
+                <name>Сычова Татьяна Викторовна</name>
+                <url>https://emotsium.ru/sychovatv</url>
+                <price/>
+                <oldprice>5000</oldprice>
+                <currencyId/>
+                <sales_notes/>
+                <set-ids/>
+                <picture/>
+                <description/>
+                <categoryId/>
+                <param>
+                    <experience>20 лет</experience>
+                    <scientific_title>лечебное дело</scientific_title>
+                    <scientific_category>лечебное дело</scientific_category>
+                    <url_profile>https://emotsium.ru/sychovatv</url_profile><сarier_start>2004-01-01
+                </сarier_start>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <users_rating/>
+                <reviews_number/>
+                <prod_rating/>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <childrens_doctor>1</childrens_doctor>
+            </param>
+        </offer>
+        <offer>
+            <name>Смольникова Наталья Александровна</name>
+            <url>https://emotsium.ru/smolnikovana</url>
+            <price/>
+            <oldprice>5000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>16 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/smolnikovana</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Демидова Анастасия Сергеевна</name>
+            <url>https://emotsium.ru/demidovaas</url>
+            <price/>
+            <oldprice>3500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>8 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/demidovaas</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Костин Павел Игоревич</name>
+            <url>https://emotsium.ru/kostinpi</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>10 лет</experience>
+                <scientific_title>врач</scientific_title>
+                <scientific_category>врач</scientific_category>
+                <url_profile>https://emotsium.ru/kostinpi</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>врач</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Гиберт Анна Ивановна</name>
+            <url>https://emotsium.ru/gibertai</url>
+            <price/>
+            <oldprice>2500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>11 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/gibertai</url_profile>
+                <city_name>Тюмень</city_name>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+            </param>
+        </offer>
+        <offer>
+            <name>Ракитина Рузана Самвеловна</name>
+            <url>https://emotsium.ru/rakitinars</url>
+            <price/>
+            <oldprice>3500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>9 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/rakitinars</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Бунин Александр Васильевич</name>
+            <url>https://emotsium.ru/buninav</url>
+            <price/>
+            <oldprice>2500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>7 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/buninav</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Белов Лев Владимирович</name>
+            <url>https://emotsium.ru/belovlv</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>8 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/belovlv</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+                <record_phone>+7 919 944 64 17</record_phone>
+            </param>
+        </offer>
+        <offer>
+            <name>Ильина Ксения Николаевна</name>
+            <url>https://emotsium.ru/ilyinakn</url>
+            <price/>
+            <oldprice>2500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>7 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/ilyinakn</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Леончук Анастасия Александровна</name>
+            <url>https://emotsium.ru/leonchukaa</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>8 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/leonchukaa</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Левченко Евгения Олеговна</name>
+            <url>https://emotsium.ru/levchenkoeo</url>
+            <price/>
+            <oldprice>2500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>10 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/levchenkoeo</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Балахонова Оксана Владимировна</name>
+            <url>https://emotsium.ru/balahonova</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>23 года</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/balahonova</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Киселев Вадим Рудольфович</name>
+            <url>https://emotsium.ru/kiselev</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>5 лет</experience>
+                <scientific_title>Лечебное дело</scientific_title>
+                <scientific_category>Лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/kiselev</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>Лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Пулеко Карина Самвеловна</name>
+            <url>https://emotsium.ru/puleko</url>
+            <price/>
+            <oldprice>3000</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>11 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/puleko</url_profile>
+                <city_name>Тюмень</city_name>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Майер Полина Олеговна</name>
+            <url>https://emotsium.ru/maierpo</url>
+            <price/>
+            <oldprice>3500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>8 лет</experience>
+                <scientific_title>психиатрия</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/maierpo</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>педиатрия</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Уманская Полина Станиславовна</name>
+            <url>https://emotsium.ru/umanskaya</url>
+            <price/>
+            <oldprice>3500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>13 лет</experience>
+                <scientific_title>лечебное дело</scientific_title>
+                <scientific_category>лечебное дело</scientific_category>
+                <url_profile>https://emotsium.ru/umanskaya</url_profile>
+                <city_name>Тюмень</city_name>
+                <childrens_doctor>1</childrens_doctor>
+                <adult_doctor>1</adult_doctor>
+                <science_degree>лечебное дело</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+        <offer>
+            <name>Головина Жанна Григорьевна</name>
+            <url>https://emotsium.ru/golovina</url>
+            <price/>
+            <oldprice>2500</oldprice>
+            <currencyId/>
+            <sales_notes/>
+            <set-ids/>
+            <picture/>
+            <description/>
+            <categoryId/>
+            <param>
+                <experience>19 лет</experience>
+                <scientific_title>психология</scientific_title>
+                <scientific_category>психология</scientific_category>
+                <url_profile>https://emotsium.ru/golovina</url_profile>
+                <city_name>Тюмень</city_name>
+                <adult_doctor>1</adult_doctor>
+                <childrens_doctor>1</childrens_doctor>
+                <science_degree>психология</science_degree>
+                <clinic_city_name>Тюмень</clinic_city_name>
+                <clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+                <clinic_name>ЭмоциУМ</clinic_name>
+                <record_phone>+7 919 944 64 17</record_phone>
+                <can_record>1</can_record>
+                <online_schedule>1</online_schedule>
+            </param>
+        </offer>
+    </offers>
+</shop>undefined</yml_catalog>
