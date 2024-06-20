@@ -471,10 +471,10 @@
 </param>
 </offer>
 <offer>
-<name/>
-<url/>
+<name>Головина Жанна Григорьевна</name>
+<url>https://emotsium.ru/golovina</url>
 <price/>
-<oldprice/>
+<oldprice>2500</oldprice>
 <currencyId/>
 <sales_notes/>
 <set-ids/>
@@ -482,10 +482,20 @@
 <description/>
 <categoryId/>
 <param>
-<experience/>
-<scientific_title/>
-<scientific_category/>
-<url_profile/>
+<experience>19 лет</experience>
+<scientific_title>психология</scientific_title>
+<scientific_category>психология</scientific_category>
+<url_profile>https://emotsium.ru/golovina</url_profile>
+<city_name>Тюмень</city_name>
+<adult_doctor>1</adult_doctor>
+<childrens_doctor>1</childrens_doctor>
+<science_degree>психология</science_degree>
+<clinic_city_name>Тюмень</clinic_city_name>
+<clinic_address>Тюменская область, г. Тюмень, ул. Мориса Тореза, д. 12А, офис 4</clinic_address>
+<clinic_name>ЭмоциУМ</clinic_name>
+<record_phone>+7 919 944 64 17</record_phone>
+<can_record>1</can_record>
+<online_schedule>1</online_schedule>
 </param>
 </offer>
 </offers>
