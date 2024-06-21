@@ -5,7 +5,7 @@
         <company>ЭмоциУМ</company>
         <url>https://emotsium.ru/</url>
         <email>labdushi@yandex.ru</email>
-        <picture/>https://static.tildacdn.com/tild3461-3032-4532-a637-383763643864/logo2.svg</picture>
+        <picture>https://static.tildacdn.com/tild3461-3032-4532-a637-383763643864/logo2.svg</picture>
         <description>Центр персонализированной психотерапии и психиатрии создан, чтобы помочь каждому пациенту найти путь к здоровью и благополучию. Мы стремимся предоставить безусловную поддержку и конфиденциальность, создавая доверительную атмосферу, в которой каждый человек может открыться и почувствовать себя в безопасности</description>
         <currencies>
             <currency id="RUR" rate="1"/>
