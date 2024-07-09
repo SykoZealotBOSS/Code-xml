@@ -14,7 +14,6 @@
         <categories>
             <category id="1">Врач</category>
         </categories>
-        
         <sets>
             <set id="psikhiatr">
                 <name>Психиатр</name>
@@ -48,7 +47,6 @@
                 <name>Нейропсихолог</name>
                 <url>https://emotsium.ru/</url>
             </set>
-
         </sets>
         <offers>
             <offer>
@@ -77,7 +75,6 @@
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+8(909)80-20-30</param>
             </offer>
-
         <offer>
             <name>Смольникова Наталья Александровна</name>
             <url>https://emotsium.ru/smolnikovana</url>
@@ -520,7 +517,6 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-
         </offers>
     </shop>
 </yml_catalog>
