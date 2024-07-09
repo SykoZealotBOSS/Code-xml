@@ -424,7 +424,7 @@
             <picture>https://static.tildacdn.com/tild6131-6338-4133-b930-333030353930/maier-full.jpg</picture>
             <description>Врач психиатр первой категории Майер Полина Олеговна  центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
-            <param name="Фамилия"Майер</param>
+            <param name="Фамилия">Майер</param>
             <param name="Имя">Полина</param>
             <param name="Отчество">Олеговна</param>
             <param name="Годы опыта">8</param>
