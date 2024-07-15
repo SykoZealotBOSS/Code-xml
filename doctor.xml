@@ -19,7 +19,7 @@
                 <name>Психиатр</name>
                 <url>https://emotsium.ru/</url>
             </set>
-            <set id="psychodiagnostic"
+            <set id="psychodiagnostic">
                 <name>Психодиагност</name>
                 <url>https://emotsium.ru/</url>
             </set>
