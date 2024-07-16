@@ -19,18 +19,6 @@
                 <name>Психиатр</name>
                 <url>https://emotsium.ru/</url>
             </set>
-            <set id="psychodiagnostic">
-                <name>Психодиагност</name>
-                <url>https://emotsium.ru/</url>
-            </set>
-            <set id="forensic psychiatrist">
-                <name>Судебно-психиатрический эксперт</name>
-                <url>https://emotsium.ru/</url>
-            </set>
-            <set id="neiropsikholog">
-                <name>Нейропсихолог</name>
-                <url>https://emotsium.ru/</url>
-            </set>
         </sets>
         <offers>
             <offer>
