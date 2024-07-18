@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-06-20 12:06">
+<yml_catalog date="2024-07-18 12:06">
     <script/>
     <shop>
-        <name>Центр персонализированной психотерапии и психиатрии</name>
+        <name>Центр психотерапии, психиатрии</name>
         <company>ЭмоциУМ</company>
         <url>https://emotsium.ru/</url>
         <email>labdushi@yandex.ru</email>
@@ -15,8 +15,36 @@
             <category id="1">Врач</category>
         </categories>
         <sets>
+            <set id="vrach-psikhiatr">
+                <name>Врач-психиатр</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="psikhoterapevt">
+                <name>Психотерапевт</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="meditsinskiy-psikholog">
+                <name>Медицинский психолог</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="psikhodiagnost">
+                <name>Психодиагност</name>
+                <url>https://emotsium.ru/</url>
+            </set>
             <set id="psikhiatr">
                 <name>Психиатр</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="sudebno-psikhiatricheskiy ekspert">
+                <name>Судебно-психиатрический эксперт</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="psikholog">
+                <name>Психолог</name>
+                <url>https://emotsium.ru/</url>
+            </set>
+            <set id="nеiropsikholog">
+                <name>Нейропсихолог</name>
                 <url>https://emotsium.ru/</url>
             </set>
         </sets>
