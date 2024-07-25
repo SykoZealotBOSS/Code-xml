@@ -49,14 +49,14 @@
             </set>
         </sets>
         <offers>
-            <offer>
+            <offer id="vrach125" group_id="125">
                 <name>Сычова Татьяна Викторовна</name>
                 <url>https://emotsium.ru/sychovatv</url>
                 <price from="true">5000</price>
                 <oldprice>5000</oldprice>
                 <currencyId>RUR</currencyId>
                 <sales_notes>Первичный прием</sales_notes>
-                <set-ids>vrach-psikhoterapevt,psikhiatr detskii,psikhiatr vzroslyi</set-ids>
+                <set-ids>vrach-psikhiatr,psikhiatr,</set-ids>
                 <picture>https://static.tildacdn.com/tild3262-3837-4731-a565-366530643838/sychova.jpg</picture>
                 <description>Врач-психиатр, психотерапевт Сычова Татьяна Викторовна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
                 <categoryId>1</categoryId>
@@ -75,14 +75,14 @@
                 <param name="Возможность записи">true</param>
                 <param name="Телефон для записи">+8(909)80-20-30</param>
             </offer>
-        <offer>
+        <offer id="vrach126" group_id="126">
             <name>Смольникова Наталья Александровна</name>
             <url>https://emotsium.ru/smolnikovana</url>
             <price from="true">5000</price>
             <oldprice>5000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psihiatr,psiholog,psihoterapevt</set-ids>
+            <set-ids>psikhiatr,psikholog,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6236-3461-4665-b731-666632646362/smolnikova_1.jpg</picture>
             <description>Врач-психиатр, психотерапевт Смольникова Наталья Александровна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -101,14 +101,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach127" group_id="127">
             <name>Демидова Анастасия Сергеевна</name>
             <url>https://emotsium.ru/demidovaas</url>
             <price from="true">3500</price>
             <oldprice>3500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>vrach-psikhiatr,psikhoterapevt detskiy i vzroslyy</set-ids>
+            <set-ids>vrach-psikhiatr,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6330-6366-4237-a337-313232383164/demidova_1.jpg</picture>
             <description>Врач-психиатр, психотерапевт Демидова Анастасия Сергеевна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -127,14 +127,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach128" group_id="128">
             <name>Костин Павел Игоревич</name>
             <url>https://emotsium.ru/kostinpi</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psikhiatr-detskiy,psikhoterapevt,psikhiatr</set-ids>
+            <set-ids>psikhoterapevt,psikhiatr</set-ids>
             <picture>https://static.tildacdn.com/tild6333-3462-4637-b462-303764663234/kostin_1.jpg</picture>
             <description>Врач психиатр психотерапевт взрослый и детский Костин Павел Игоревич центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -153,14 +153,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach129" group_id="129">
             <name>Гиберт Анна Ивановна</name>
             <url>https://emotsium.ru/gibertai</url>
             <price from="true">2500</price>
             <oldprice>2500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psihologdetskiy,psihologklinicheskiy,psiholog</set-ids>
+            <set-ids>psikholog</set-ids>
             <picture>https://static.tildacdn.com/tild3166-3137-4631-a337-383563353732/gibert_1.jpg</picture>
             <description>Психолог, психодиагност Гиберт Анна Ивановна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -179,14 +179,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach130" group_id="130">
             <name>Ракитина Рузана Самвеловна</name>
             <url>https://emotsium.ru/rakitinars</url>
             <price from="true">3500</price>
             <oldprice>3500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psikhiatr,detskiy-psikhiatr,psikhoterapevt</set-ids>
+            <set-ids>psikhiatr,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6632-6263-4137-a261-363366353066/rakitina_1.jpg</picture>
             <description>Врач-психиатр, психотерапевт Ракитина Рузана Самвеловна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -205,14 +205,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach131" group_id="131">
             <name>Бунин Александр Васильевич</name>
             <url>https://emotsium.ru/buninav</url>
             <price from="true">2500</price>
             <oldprice>2500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psiholog,klinicheskiy-psiholog</set-ids>
+            <set-ids>psikholog</set-ids>
             <picture>https://static.tildacdn.com/tild3138-3936-4237-a632-333736363862/bunin_1.jpg</picture>
             <description>Психолог Бунин Александр Васильевич центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -231,14 +231,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach131" group_id="131">
             <name>Белов Лев Владимирович</name>
             <url>https://emotsium.ru/belovlv</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>vrach-psikhiatr,psikhoterapevt,sudebno-psikhiatricheskiy-ekspert</set-ids>
+            <set-ids>vrach-psikhiatr,psikhoterapevt,sudebno-psikhiatricheskiy ekspert</set-ids>
             <picture>https://static.tildacdn.com/tild3563-6366-4239-b937-326237333837/belov_1.jpg</picture>
             <description>Врач-психиатр, психотерапевт Белов Лев Владимирович центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -257,14 +257,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach132" group_id="132">
             <name>Ильина Ксения Николаевна</name>
             <url>https://emotsium.ru/ilyinakn</url>
             <price from="true">2500</price>
             <oldprice>2500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psiholog</set-ids>
+            <set-ids>psikholog</set-ids>
             <picture>https://static.tildacdn.com/tild3537-3831-4634-b636-333131303763/ilyina_1.jpg</picture>
             <description>Психолог Ильина Ксения Николаевна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -283,14 +283,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach133" group_id="133">
             <name>Леончук Анастасия Александровна</name>
             <url>https://emotsium.ru/leonchukaa</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psihiatr,psihoterapevt</set-ids>
+            <set-ids>psikhiatr,psikhoterapevt</set-ids>
             <picture>https://prodoctorov.ru/media/photo/tyumen/doctorimage/771804/2085770-771804-leonchuk_square.jpg</picture>
             <description>Психиатр, психотерапевт Леончук Анастасия Александровна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -309,14 +309,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach134" group_id="134">
             <name>Левченко Евгения Олеговна</name>
             <url>https://emotsium.ru/levchenkoeo</url>
             <price from="true">2500</price>
             <oldprice>2500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>neyropsiholog,psiholog</set-ids>
+            <set-ids>nеiropsikholog,psikholog</set-ids>
             <picture>https://static.tildacdn.com/tild3834-3864-4435-b139-646137396337/levchenko_1.jpg</picture>
             <description>Нейропсихолог, психолог центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -335,14 +335,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach135" group_id="135">
             <name>Балахонова Оксана Владимировна</name>
             <url>https://emotsium.ru/balahonova</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>vrach-psikhiatr,psikhoterapevt-vzroslyy</set-ids>
+            <set-ids>vrach-psikhiatr,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6664-6435-4661-b363-336133656136/oksana-1.jpg</picture>
             <description>Врач психиатр, психотерапевт взрослый Балахонова Оксана Владимировна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -361,14 +361,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)180-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach136" group_id="136">
             <name>Киселев Вадим Рудольфович</name>
             <url>https://emotsium.ru/kiselev</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psihiatr,psihoterapevt</set-ids>
+            <set-ids>psikhiatr,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6333-3566-4236-a631-643637323130/kiselev-1.jpg</picture>
             <description>Врач-психиатрКиселев Вадим Рудольфович центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -387,14 +387,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach137" group_id="137">
             <name>Пулеко Карина Самвеловна</name>
             <url>https://emotsium.ru/puleko</url>
             <price from="true">3000</price>
             <oldprice>3000</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>psikhiatr-detskiy,psikhiatr,psikhoterapevt</set-ids>
+            <set-ids>psikhiatr,psikhoterapevt</set-ids>
             <picture>https://static.tildacdn.com/tild6239-6366-4531-a666-363163363330/puleko-1.jpg</picture>
             <description>Врач психиатр Пулеко Карина Самвеловна  центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -413,7 +413,7 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach138" group_id="138">
             <name>Майер Полина Олеговна</name>
             <url>https://emotsium.ru/maierpo</url>
             <price from="true">3500</price>
@@ -439,7 +439,7 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach139" group_id="139">
             <name>Уманская Полина Станиславовна</name>
             <url>https://emotsium.ru/umanskaya</url>
             <price from="true">3500</price>
@@ -465,14 +465,14 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach140" group_id="140">
             <name>Головина Жанна Григорьевна</name>
             <url>https://emotsium.ru/golovina</url>
             <price from="true">2500</price>
             <oldprice>2500</oldprice>
             <currencyId>RUR</currencyId>
             <sales_notes>Первичный прием</sales_notes>
-            <set-ids>vrach-psikholog,sudebno-psikhiatricheskiy-ekspert</set-ids>
+            <set-ids>psikholog,sudebno-psikhiatricheskiy ekspert</set-ids>
             <picture>https://static.tildacdn.com/tild6531-6539-4339-b635-336436666630/golovina.jpg</picture>
             <description>Врач психолог, судебно-психиатрический эксперт Головина Жанна Григорьевна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
             <categoryId>1</categoryId>
@@ -491,7 +491,7 @@
             <param name="Возможность записи">true</param>
             <param name="Телефон для записи">+8(909)190-20-30</param>
         </offer>
-        <offer>
+        <offer id="vrach141" group_id="141">
             <name>Шваб Дмитрий Владимирович</name>
             <url>https://emotsium.ru/shvab</url>
             <price from="true">3000</price>
