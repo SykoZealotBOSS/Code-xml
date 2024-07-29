@@ -23,14 +23,6 @@
                 <name>Психотерапевт</name>
                 <url>https://emotsium.ru/</url>
             </set>
-            <set id="meditsinskiy-psikholog">
-                <name>Медицинский психолог</name>
-                <url>https://emotsium.ru/</url>
-            </set>
-            <set id="psikhodiagnost">
-                <name>Психодиагност</name>
-                <url>https://emotsium.ru/</url>
-            </set>
             <set id="psikhiatr">
                 <name>Психиатр</name>
                 <url>https://emotsium.ru/</url>
@@ -449,7 +441,7 @@
             <set-ids>vrach-psikhiatr</set-ids>
             <picture>https://static.tildacdn.com/tild6139-3066-4566-b239-666266333661/IMG_0357.jpg</picture>
             <description>Врач психиатр Уманская Полина Станиславовна центра психотерапии и психиатрии ЭмоциУМ в Тюмени</description>
-            <categoryId>1</categoryId><categoryId/>
+            <categoryId>1</categoryId>
             <param name="Фамилия">Уманская</param>
             <param name="Имя">Полина</param>
             <param name="Отчество">Станиславовна</param>
